@@ -1,0 +1,3 @@
+current directory: /Users/marikokanefuji/Desktop/chat-space/vendor/bundle/gems/nokogiri-1.8.5/ext/nokogiri
+/Users/marikokanefuji/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181203-91481-likgab.rb extconf.rb
+undefined method `success?' for nil:NilClass
