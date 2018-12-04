@@ -5,3 +5,4 @@ Gemfile.lock
 ports
 concourse/private.yml
 concourse/mini_portile.final.yml
+public/uploads/*
